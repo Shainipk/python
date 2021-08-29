@@ -4,4 +4,4 @@ if A == 20 :
 else:
     print ("it is not 20")
 
-print ("Thamk You")
+print ("Thank You")
